@@ -1,0 +1,7 @@
+﻿  GopOdinchik laba parol.cpp
+C:\Users\Пользователь\source\repos\GopOdinchik laba parol\GopOdinchik laba parol\GopOdinchik laba parol.cpp(13,71): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  GopOdinchik laba parol.vcxproj -> C:\Users\Пользователь\source\repos\GopOdinchik laba parol\x64\Debug\GopOdinchik laba parol.exe
